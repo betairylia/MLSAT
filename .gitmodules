@@ -1,0 +1,9 @@
+[submodule "UniversalCLI"]
+	path = UniversalCLI
+	url = https://github.com/betairylia/UniversalCLI.git
+[submodule "sparsemax-pytorch"]
+	path = sparsemax
+	url = https://github.com/KrisKorrel/sparsemax-pytorch.git
+[submodule "DeepInfomaxPytorch"]
+	path = DeepInfomaxPytorch
+	url = https://github.com/DuaneNielsen/DeepInfomaxPytorch.git
